@@ -1,1 +1,13 @@
 # haidar.github.io
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Pertama Saya</title>
+</head>
+<body style="text-align:center; font-family:Arial;">
+    <h1>Selamat Datang di Website Pertama Saya!</h1>
+    <p>Dibuat oleh Raf... dengan sedikit bantuan dari Miku, hmph!</p>
+</body>
+</html>
